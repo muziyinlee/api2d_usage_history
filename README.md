@@ -5,7 +5,7 @@
 
  [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https://github.com/xiayh17/api2d_usage_history&env=Token)
 
- [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/muziyinlee/api2d_usage_history)]
+ [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/muziyinlee/api2d_usage_history)
 
 
 在 Vercel 的项目设置中，找到 "环境变量" 部分并添加一个新的环境变量，
